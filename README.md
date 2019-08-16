@@ -3,9 +3,9 @@ sprpwr: A C++11 header-only multivariate power series library
 
 The sprpwr power series library can be used to expand multivariate power series.
 
-It was written to study some new features of C++ and to implement lazy evaluation in C++. It makes heavy use of templates, virtual functions and the move construct. It also uses an interesting part of the C++ language: some objects `destroy themselves' in a member function. This is used to implement an actor like behaviour of the generators which can replace themselves with other generators. 
+It was written to study some new features and to implement lazy evaluation in C++11. It makes heavy use of templates, virtual functions and the move construct. It also uses an interesting part of C++: some objects `destroy themselves' in a member function. This is used to implement an actor like behaviour of the generators which can replace themselves with other generators. 
 
-This library is more a study on the C++ language, but it can also be used as a tool to do calculations. 
+This library is mainly a study of the C++11 language, but it can also be used as a tool to do calculations. 
 
 How to use it:
 --------------
