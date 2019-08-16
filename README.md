@@ -1,4 +1,4 @@
-sprpwr: A C++11 header-only multivariate power series library
+sprpwr: A C++11 multivariate power series library
 ===========================================================
 
 The sprpwr power series library can be used to expand multivariate power series.
