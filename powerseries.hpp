@@ -12,7 +12,7 @@
 #include <cassert>
 #include <utility>
 
-#include "pwrsrs.hpp"
+#include "sprpwr.hpp"
 #include "gen.hpp"
 #include "cache.hpp"
 #include "muladd.hpp"

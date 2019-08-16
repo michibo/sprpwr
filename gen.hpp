@@ -7,7 +7,7 @@
 // License: MIT
 // Copyright 2019
 
-namespace pwrsrs
+namespace sprpwr
 {
     namespace gen
     {

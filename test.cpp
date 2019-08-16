@@ -94,7 +94,7 @@ void benchmark(Func func, int multiplier)
 template<class T>
 void check_1d()
 {
-    using namespace pwrsrs;
+    using namespace sprpwr;
 
     auto ONE = PowerSeries<T>{1};
     auto X = PowerSeries<T>{0,1};
@@ -148,7 +148,7 @@ void check_1d()
 template<class T>
 void check_2d()
 { 
-    using namespace pwrsrs;
+    using namespace sprpwr;
 
     auto Z0 = PowerSeries<T>{0};
     auto O0 = PowerSeries<T>{1};
